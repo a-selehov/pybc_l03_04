@@ -1,0 +1,25 @@
+791  mkdir pybc_l03_04
+  792  ls
+  793  cd pybc_l03_04
+  794  git init
+  795  ls -a
+  796  nano script_04.py
+  797  ls
+  798  pythot script_04.py 
+  799  python script_04.py 
+  800  ls -a
+  801  touch .gitignore
+  802  ls
+  803  ls -a
+  804  nano .gitignore 
+  805  git status
+  806  git add .
+  807  git status
+  808  git commit -m "Create script_04.py"
+  809  git remote add origin https://github.com/a-selehov/pybc_l03_04.git
+  810  git push origin master
+  811  git push origin master
+  812  git status
+  813  touch l03_04_log.txt
+  814  history 
+https://github.com/a-selehov/pybc_l03_04.git
